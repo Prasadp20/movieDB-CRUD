@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDonMovieDB", "CRUDonMovieDB\CRUDonMovieDB.csproj", "{FA1EEF34-97BE-41FB-9CCB-E786A5B7927E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1EEF34-97BE-41FB-9CCB-E786A5B7927E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1EEF34-97BE-41FB-9CCB-E786A5B7927E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1EEF34-97BE-41FB-9CCB-E786A5B7927E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1EEF34-97BE-41FB-9CCB-E786A5B7927E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E80106-2DF0-4B68-B7CE-D97A11E2D34B}
+	EndGlobalSection
+EndGlobal
